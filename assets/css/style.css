@@ -124,7 +124,7 @@ font-size: 20px;
 
 margin-top: 46.5px;
 padding-top: 50%;
-background: url('./assets/css/img/anh1.jpg') top center / cover no-repeat ;
+background: url('../assets/css/img/anh1.jpg') top center / cover no-repeat ;
 position: relative;
 } 
 #slider .text-content{
