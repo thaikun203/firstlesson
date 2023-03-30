@@ -1,0 +1,60 @@
+@media(min-width: 1024px)  {
+ 
+}
+@media (max-width: 1023px) {
+ .buy-ticket{
+    padding: 15px 16px;
+ }
+ .form-control{
+    padding: 15px;
+ }
+ .social,
+ .coppy-right{
+   font-size: 48px; }} 
+@media(min-width: 740px) and (min-width: 1023px) {
+    #header .menu-mobile{
+display: none;
+    } 
+}
+@media(max-width: 740px)  {
+    .s-width-full,
+    .s-col-full{
+        width: 100%;
+    }
+    .contact-form{
+        margin-top: 16px;
+    }
+#nav{
+    display: block;
+    
+}
+
+#nav>li>a{
+    
+    width: 100%;
+    
+ }  
+ #nav > li:not(:first-child), #nav > li > a {
+    display: block
+}
+ #nav .subnav{
+    position: initial;
+ }
+ #header .menu-mobile{
+    display: block;
+ }
+#header .search-btn{
+    display: none;
+ }
+#header{
+    overflow: hidden;
+}
+#content .member-items{
+margin-top: 30px;
+width: 100%;
+}
+#content .member-img{
+    width: 60%;
+   
+}
+}
